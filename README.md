@@ -1,7 +1,6 @@
-# ☕ First Code Java
+# ☕ RequuestDataAndDisplay
+En este codigo pides datos y el programa los muestra en pantalla
 
-Primer programa en Java que imprime un mensaje en consola.  
-Este proyecto forma parte de mi aprendizaje en programación.
 
 ---
 
