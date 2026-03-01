@@ -1,6 +1,6 @@
 # ☕ First Code Java
 
-Primer programa en Java que imprime un mensaje en
+Programa que convierte pesos a dolar y dolar a peso en bucle imprime un mensaje en
 consola.
 Este proyecto forma parte de mi aprendizaje en programación.
 
